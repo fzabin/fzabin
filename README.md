@@ -12,6 +12,4 @@ I’m a Software Engineer and I have 6+ years in tech working with back-end, fro
 - **Mobile**: React Native (I worked a while with Android and Kotlin)
 - **Front-end**: React, Next.js, React Query, GraphQL
 - **Databases**: PostgreSQL, SQLite, MongoDB, MySQL
-- **Infra**: Docker, Git
-- **Agile**: Testing, Scrum, Kanban
-- **Other**: Domain driven design, clean code, Scrum, Kanban
+- **Other**: Domain Driven Design, Clean Code, Scrum, Kanban, Docker, Git
