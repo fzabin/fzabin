@@ -17,3 +17,5 @@ I’m a Software Engineer. I currently work as a full stack developer at Promip 
 - **Databases**: PostgreSQL, SQLite, MongoDB, MySQL
 - **Agile**: Testing, Scrum, Kanban
 - **Other**: Domain driven design, clean code
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=fzabin&theme=dracula&count_private=true&show_icons=true)
