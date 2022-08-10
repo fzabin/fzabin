@@ -15,3 +15,4 @@ I’m a Software Engineer. I currently work as a full stack developer at Promip 
 - Infra: Docker, Git
 - Databases: PostgreSQL, SQLite, MongoDB, MySQL
 - Agile practices: Testing, Scrum, Kanban
+- Other: Domain Driven Design, clean code
