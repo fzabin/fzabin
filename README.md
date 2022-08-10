@@ -1,8 +1,8 @@
 ## Hi, I'm Fernando
 
-I’m a Software Engineer. Currently I'm working as a full stack developer at Promip.
+I’m a Software Engineer. I currently work as a full stack developer at Promip and I am responsible for some projects in production.
 
-- I created [GrowApp](https://play.google.com/store/apps/details?id=br.com.bison.abacate "GrowApp's Play Store page"), a mobile app for farmers to monitor pests in their fields and greenhouses, to help them improve their productivity
+- I created [GrowApp](https://play.google.com/store/apps/details?id=br.com.bison.abacate "GrowApp's Play Store page"), a mobile app for farmers to monitor pests in fields and greenhouses, to help them improve their productivity
 - I will update [my website](https://fzabin.github.io/ "Fernando Zabin's website") with for more cases
 - I care about good user experience, good software architecture and design
 - I believe....
