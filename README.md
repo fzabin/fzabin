@@ -8,11 +8,11 @@ I’m a Software Engineer. I currently work as a full stack developer at Promip 
 
 ### My current stack
 
-- Programming: JavaScript, TypeScript, Kotlin
-- Server Technologies: Node.js, REST, GraphQL
-- Mobile: React Native, Android
-- Front-end: React, React Query, GraphQL, Next.js
-- Infra: Docker, Git
-- Databases: PostgreSQL, SQLite, MongoDB, MySQL
-- Agile practices: Testing, Scrum, Kanban
-- Other: Domain Driven Design, clean code
+- **Languages**: JavaScript, TypeScript, Kotlin
+- **Back-end**: Node.js, REST, GraphQL
+- **Mobile**: React Native, Android
+- **Front-end**: React, Next.js, React Query, GraphQL
+- **Infra**: Docker, Git
+- **Databases**: PostgreSQL, SQLite, MongoDB, MySQL
+- **Agile**: Testing, Scrum, Kanban
+- **Other**: Domain driven design, clean code
