@@ -1,6 +1,6 @@
 ## Hi, I'm Fernando
 
-I’m a Software Engineer. I currently work as a software developer at [Lambda3](https://github.com/Lambda3).
+I’m a software developer currently work at [Lambda3](https://github.com/Lambda3).
 
 - :six: I have 7+ years in tech working with back-end, front-end and mobile
 - :art: I care about good user experience, good software architecture and design
