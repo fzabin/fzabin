@@ -6,6 +6,7 @@ I’m a software developer currently working at [Aarin](https://aarin.com.br/), 
 - :art: I care about good user experience, good software architecture and design
 - :seedling: I created [GrowApp](https://play.google.com/store/apps/details?id=br.com.bison.abacate "GrowApp's Play Store page"), a mobile app for farmers to monitor pests in fields and greenhouses, to help them improve their productivity
 - :computer: Check [my website](https://fzabin.github.io/ "Fernando Zabin's website") to see more about projects (I'm working on it!)
+- :video_game: Learning gamedev and pixel art
 
 ### Podcasts
 
